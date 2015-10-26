@@ -1,0 +1,11 @@
+# Site settings
+title: Mickeyblog
+email: ashishisbornagain@gmail.com	
+description: Your blog  #dd
+baseurl: "http://mickey0007.github.io" # the subpath of your site, e.g. /blog/
+url: "http://mickey0007.github.io" # the base hostname & protocol for your site
+twitter_username: ashishbegin
+github_username:  mickey0007
+
+# Build settings
+markdown: kramdown
